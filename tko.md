@@ -1,4 +1,4 @@
-# Trek O'Fallon
+# Trek O'Fallon Cycling Community
 While this site does not represent Trek Bicycle Corporation or their O'Fallon, MO shop, I have found a great community of friendly, welcoming folks there and thought I'd share some useful information for those who may be interested in joining the community.  
 
 ## Group Rides

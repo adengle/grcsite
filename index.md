@@ -3,6 +3,7 @@
 ## Routes
 
 ## Rides
+My favorite recurring rides are with the [Trek O'Fallon Cycling Community](tko.md)!
 
 ## Events
 
