@@ -10,3 +10,4 @@
 [<img src="images/PtC.png" width="20%" />](https://pedalthecause.org/ride/)
 [<img src="images/TdD.png" width="20%" />](https://www.tourdedonut.org/)
 [<img src="images/TdC.png" width="20%" />](https://www.tourdecorn.com/)
+[<img src="images/MidSouth.png" width="20%" />](https://www.midsouthgravel.com/)
