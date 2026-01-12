@@ -25,7 +25,7 @@ If you're like me, you may worry that you'll be the newest, the slowest, or just
 If you have a Garmin, Wahoo, or other GPS device, you can download these routes to help guide you along the way.
 
 ### Virtual Group Rides
-In the event of inclement weather, may of us join up on the ROUVY virtual cycling platform. We'll start at the normal time, but usually ride the slightly-shorter virtual version of the [St. Paul Route](https://riders.rouvy.com/route/266126).  
+In the event of inclement weather, many of us join up on the ROUVY virtual cycling platform. We'll start at the normal time, but usually ride the slightly-shorter virtual version of the [St. Paul Route](https://riders.rouvy.com/route/266126).  
 
 To keep it fun and social, we join voice chat on the shop's [Discord channel](https://discord.com/channels/1442264364743786599/1444371102104027348).
 
