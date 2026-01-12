@@ -12,12 +12,3 @@ My favorite recurring rides are with the [Trek O'Fallon Cycling Community](tko.m
 [<img src="images/TdD.png" width="20%" style="vertical-align: middle;" />](https://www.tourdedonut.org/)
 [<img src="images/TdC.png" width="20%" style="vertical-align: middle;" />](https://www.tourdecorn.com/)
 [<img src="images/MidSouth.png" width="20%" style="vertical-align: middle;" />](https://www.midsouthgravel.com/)
-
-<div
-    data-windywidget="forecast"
-    data-thememode="white"
-    data-tempunit="F"
-    data-spotid="8244903"
-    data-appid="widgets_71edb3eb92">
-</div>
-<script async="true" data-cfasync="false" type="text/javascript" src="https://windy.app/widgets-code/forecast/windy_forecast_async.js?v177"></script>
