@@ -2,7 +2,7 @@
 
 While this site does not represent Trek Bicycle Corporation or their O'Fallon, MO shop, I have found a great community of friendly, welcoming folks there and thought I'd share some useful information for those who may be interested in joining the community.  
 
-<iframe width="650" height="450" src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=in&metricTemp=°F&metricWind=mph&zoom=11&overlay=wind&product=ecmwf&level=surface&lat=38.731&lon=-90.7&detailLat=38.779&detailLon=-90.7&detail=true&message=true" frameborder="0"></iframe>
+<iframe width="100%" height="450" src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=in&metricTemp=°F&metricWind=mph&zoom=11&overlay=wind&product=ecmwf&level=surface&lat=38.731&lon=-90.7&detailLat=38.779&detailLon=-90.7&detail=true&message=true" frameborder="0"></iframe>
 
 ## Group Rides
 One of the things I love most about the Trek O'Fallon Cycling Community is the group rides. Through these, I have met great folks, learned a lot, and had a great time pursuing a great pastime.  
