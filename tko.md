@@ -2,10 +2,7 @@
 
 While this site does not represent Trek Bicycle Corporation or their O'Fallon, MO shop, I have found a great community of friendly, welcoming folks there and thought I'd share some useful information for those who may be interested in joining the community.  
 
-<a class="weatherwidget-io" href="https://forecast7.com/en/38d81n90d70/ofallon/?unit=us" data-label_1="Trek O'Fallon" data-label_2="Your Cycling Weather" data-icons="Climacons Animated" data-theme="original" >Trek O'Fallon Your Cycling Weather</a>
-<script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-</script>
+<iframe width="650" height="450" src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=in&metricTemp=°F&metricWind=mph&zoom=11&overlay=wind&product=ecmwf&level=surface&lat=38.731&lon=-90.7&detailLat=38.779&detailLon=-90.7&detail=true&message=true" frameborder="0"></iframe>
 
 ## Group Rides
 One of the things I love most about the Trek O'Fallon Cycling Community is the group rides. Through these, I have met great folks, learned a lot, and had a great time pursuing a great pastime.  
