@@ -4,6 +4,9 @@
 
 <iframe width="100%" height="450" src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=in&metricTemp=°F&metricWind=mph&zoom=11&overlay=wind&product=ecmwf&level=surface&lat=38.731&lon=-90.7&detailLat=38.779&detailLon=-90.7&detail=true&message=true" frameborder="0"></iframe>
 
+## Strava Club
+A great way to stay in touch with cycling happenings is via the [shop's Strava Club](https://www.strava.com/clubs/1181950). You'll see regular updates on group rides as well as other fun reasons to get together and enjoy cycling as a crew.
+
 ## Group Rides
 One of the things I love most about the Trek O'Fallon Cycling Community is the group rides. Through these, I have met great folks, learned a lot, and had a great time pursuing a great pastime.  
 
