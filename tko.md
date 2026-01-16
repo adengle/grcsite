@@ -1,5 +1,4 @@
 # Trek O'Fallon Cycling Community
-<img src="images/TKOCC Logo CLR SM.png" width="20%" />  
 
 *While this site does not represent [Trek Bicycle Corporation](https://www.trekbikes.com) or their [O'Fallon, MO shop](https://www.trekbikes.com/us/en_US/retail/o_fallon/), I have found a great community of friendly, welcoming folks there and thought I'd share some useful information for those who may be interested in joining the community.*
 
