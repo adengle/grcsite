@@ -15,7 +15,7 @@ If you're like me, you may worry that you'll be the newest, the slowest, or just
 
 **When:**  Saturday Mornings, 8:00 AM, *weather permitting*  (The ride will generally be moved to a [virtual ride](#virtual-group-rides) if there is precipitation, crosswinds exceeding 30 mph, or windchill below 10 degrees Fahrenheit)
 
-**Where:** Trek O'Fallon, 8640 Mexico Rd., O'Fallon, MO. From there, the group generally takes one of two routes:
+**Where:** We meet at Trek O'Fallon, 8640 Mexico Rd., O'Fallon, MO. From there, the group generally takes one of two routes:
 - **[River Flats Route](https://ridewithgps.com/routes/53566458?privacy_code=9UlQabM2C2IoD8j8U4vbIXAscpfgRMBg):** 42.5 miles with only 618 feet of climbing. The group stops frequently to regroup, refuel and hydrate. There are even bathroom stops!
 - **[St. Paul Country Rollers Route](https://ridewithgps.com/routes/53566477?privacy_code=84szbLq1vQUGQXxbk9iHX9FRJn5KLofS):**  29.7 miles with 1313 feet of climbing. Again, plenty of stops to regroup and recharge.  
 
