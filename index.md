@@ -18,18 +18,21 @@ My favorite recurring rides are with the [Trek O'Fallon Cycling Community](tko.m
 - Tour de France
 - Giro d'Italia
 - Vuelta a Espana
+
 ### Major Tours
 - Paris-Nice
 - Tirreno-Adriatico
 - Volta a Catalunya
 - Tour de Romandie
 - Tour de Suisse
+
 ### Monuments
 - Milano-SanRemo
 - Ronde van Vlaanderen
 - Paris-Roubaix
 - Liege-Bastogne-Liege
 - Il Lombardia
+
 ### Top Classics
 - Omloop Het Nieuwsblad
 - Strade Bianche
