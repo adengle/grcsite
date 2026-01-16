@@ -22,7 +22,10 @@ If you're like me, you may worry that you'll be the newest, the slowest, or just
 If you have a Garmin, Wahoo, or other GPS device, you can download these routes to help guide you along the way.
 
 ### Virtual Group Rides
-In the event of inclement weather, many of us join up on the ROUVY virtual cycling platform. We'll start at the normal time, but usually ride the slightly-shorter virtual version of the [St. Paul Route](https://riders.rouvy.com/route/266126).  
+In the event of inclement weather, many of us join up on the ROUVY virtual cycling platform. We'll start at the normal time, but ride the virtual version of one of our favorite routes:  
+- [St. Paul Route](https://riders.rouvy.com/route/266126): 23.89 mi with 994 ft of climbing
+- [River Flats Ride](https://riders.rouvy.com/route/275858): 39.5 mi with 541 ft of climbing
+- [Rainy Fall SMR](https://riders.rouvy.com/route/252194): 38.24 mi with 804 ft of climbing
 
 To keep it fun and social, we join voice chat on the shop's [Discord channel](https://discord.com/channels/1442264364743786599/1444371102104027348).
 
