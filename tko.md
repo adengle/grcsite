@@ -16,16 +16,16 @@ If you're like me, you may worry that you'll be the newest, the slowest, or just
 **When:**  Saturday Mornings, 8:00 AM, *weather permitting*  
 
 **Where:** Trek O'Fallon, 8640 Mexico Rd., O'Fallon, MO. From there, the group generally takes one of two routes:
-- [River Flats Route](https://ridewithgps.com/routes/53566458?privacy_code=9UlQabM2C2IoD8j8U4vbIXAscpfgRMBg): 42.5 miles with only 618 feet of climbing. The group stops frequently to regroup, refuel and hydrate. There are even bathroom stops!
-- [St. Paul Country Rollers Route](https://ridewithgps.com/routes/53566477?privacy_code=84szbLq1vQUGQXxbk9iHX9FRJn5KLofS):  29.7 miles with 1313 feet of climbing. Again, plenty of stops to regroup and recharge.  
+- **[River Flats Route](https://ridewithgps.com/routes/53566458?privacy_code=9UlQabM2C2IoD8j8U4vbIXAscpfgRMBg):** 42.5 miles with only 618 feet of climbing. The group stops frequently to regroup, refuel and hydrate. There are even bathroom stops!
+- **[St. Paul Country Rollers Route](https://ridewithgps.com/routes/53566477?privacy_code=84szbLq1vQUGQXxbk9iHX9FRJn5KLofS):**  29.7 miles with 1313 feet of climbing. Again, plenty of stops to regroup and recharge.  
 
 If you have a Garmin, Wahoo, or other GPS device, you can download these routes to help guide you along the way.
 
 ### Virtual Group Rides
 In the event of inclement weather, many of us join up on the ROUVY virtual cycling platform. We'll start at the normal time, but ride the virtual version of one of our favorite routes:  
-- [St. Paul Route](https://riders.rouvy.com/route/266126): 23.89 mi with 994 ft of climbing
-- [River Flats Ride](https://riders.rouvy.com/route/275858): 39.5 mi with 541 ft of climbing
-- [Rainy Fall SMR](https://riders.rouvy.com/route/252194): 38.24 mi with 804 ft of climbing
+- **[St. Paul Route](https://riders.rouvy.com/route/266126):** 23.89 mi with 994 ft of climbing
+- **[River Flats Ride](https://riders.rouvy.com/route/275858):** 39.5 mi with 541 ft of climbing
+- **[Rainy Fall SMR](https://riders.rouvy.com/route/252194):** 38.24 mi with 804 ft of climbing
 
 To keep it fun and social, we join voice chat on the shop's [Discord channel](https://discord.com/channels/1442264364743786599/1444371102104027348).
 
