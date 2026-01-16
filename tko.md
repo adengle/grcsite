@@ -27,7 +27,7 @@ In the event of inclement weather, many of us join up on the ROUVY virtual cycli
 - **[River Flats Ride](https://riders.rouvy.com/route/275858):** 39.5 mi with 541 ft of climbing
 - **[Rainy Fall SMR](https://riders.rouvy.com/route/252194):** 38.24 mi with 804 ft of climbing
 
-To keep it fun and social, we join voice chat on the shop's [Discord channel](https://discord.com/channels/1442264364743786599/1444371102104027348).
+To keep it fun and social, we join voice chat on the community's [Discord channel](https://discord.com/channels/1442264364743786599/1444371102104027348).
 
 Other events happen from time to time and I will share them here as I become aware of them.  
 
