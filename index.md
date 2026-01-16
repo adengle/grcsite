@@ -12,6 +12,7 @@ My favorite recurring rides are with the [Trek O'Fallon Cycling Community](tko.m
 [<img src="images/TdD.png" width="20%" style="vertical-align: middle;" />](https://www.tourdedonut.org/)
 [<img src="images/TdC.png" width="20%" style="vertical-align: middle;" />](https://www.tourdecorn.com/)
 [<img src="images/MidSouth.png" width="20%" style="vertical-align: middle;" />](https://www.midsouthgravel.com/)
+[<img src="images/TrailnetClassics.png" width="20%" style="vertical-align: middle;" />](https://trailnet.org/rides/)
 
 ## Pro Racing
 ### Grand Tours
