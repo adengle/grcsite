@@ -32,5 +32,5 @@ In the event of inclement weather, many of us join up on the [ROUVY](https://rou
 
 To keep it fun and social, we join voice chat on the community's [Discord channel](https://discord.com/channels/1442264364743786599/1444371102104027348).
 
-<iframe src="https://discord.com/widget?id=1442264364743786599&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+Other events happen from time to time and I will share them here as I become aware of them.  
 
