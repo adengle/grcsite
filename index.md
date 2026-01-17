@@ -8,7 +8,8 @@ My favorite recurring rides are with the [Trek O'Fallon Cycling Community](tko.m
 ## Events
 
 [<img src="images/Trek100.png" width="20%" style="vertical-align: middle;" />](https://www.trekbikes.com/us/en_US/trek100/)
-[<img src="images/PtC.png" width="20%" style="vertical-align: middle;" />](https://pedalthecause.org/ride/)
+ alt="Trek 100 logo with Trek Bikes branding"
+[<img src="images/PtC.png" width="20%" style="vertical-align: middle;" alt="Logo for Pedal the Cause, featuring a bicycle graphic and the event name in bold letters. The logo conveys a sense of community and support for cancer research." />](https://pedalthecause.org/ride/)src="images/PtC.png" width="20%" style="vertical-align: middle;" />](https://pedalthecause.org/ride/)
 [<img src="images/TdD.png" width="20%" style="vertical-align: middle;" />](https://www.tourdedonut.org/)
 [<img src="images/TdC.png" width="20%" style="vertical-align: middle;" />](https://www.tourdecorn.com/)
 [<img src="images/MidSouth.png" width="20%" style="vertical-align: middle;" />](https://www.midsouthgravel.com/)
