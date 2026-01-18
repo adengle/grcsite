@@ -16,6 +16,7 @@ My favorite recurring rides are with the [Trek O'Fallon Cycling Community](tko.m
 [<img src="images/TrailnetClassics.png" width="20%" style="vertical-align: middle;" />](https://trailnet.org/rides/)
 
 ## Pro Racing
+See also the table [in calendar order](proracing.md)
 ### Grand Tours
 - Tour de France
 - Giro d'Italia
