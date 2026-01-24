@@ -5,7 +5,7 @@
 <iframe width="100%" height="450" src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=in&metricTemp=°F&metricWind=mph&zoom=11&overlay=wind&product=ecmwf&level=surface&lat=38.731&lon=-90.7&detailLat=38.779&detailLon=-90.7&detail=true&message=true" frameborder="0"></iframe>
 
 ## Getting Connected
-The best way to get connected is to go by the shop! Grab a cup of coffee, hang out and talk bikes! In addition to that, you can connect with the community online...
+The best way to get connected is to go by the shop! Grab a cup of coffee (or an NA beer), hang out and talk bikes! In addition to that, you can connect with the community online...
 
 [<img src="images/Strava.png" style="vertical-align: middle;" />](https://www.strava.com/clubs/1181950/)[<img src="images/fb.png" style="vertical-align: middle;" />](https://www.facebook.com/TrekBicycleOFallon)[<img src="images/Discord.png" style="vertical-align: middle;" />](https://discord.gg/fsv6NCyZ)
 
