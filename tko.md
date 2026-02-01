@@ -32,6 +32,7 @@ If you have a Garmin, Wahoo, or other GPS device, you can download these routes 
 
 ### Virtual Group Rides
 In the event of inclement weather, many of us join up on the [ROUVY](https://rouvy.com/) virtual cycling platform. We'll start at the normal time, but ride the virtual version of one of our favorite routes:  
+
 | Route | Distance | Climbing |  
 |-------|----------|-----------|  
 | [St. Paul Route](https://riders.rouvy.com/route/266126) | 23.89 mi | 994 ft |  
