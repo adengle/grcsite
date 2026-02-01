@@ -7,7 +7,9 @@
 ## Getting Connected
 The best way to get connected is to go by the shop! Grab a cup of coffee (or an NA beer), hang out and talk bikes! In addition to that, you can connect with the community online...
 
-[<img src="images/Strava.png" style="vertical-align: middle;" />](https://www.strava.com/clubs/1181950/)[<img src="images/fb.png" style="vertical-align: middle;" />](https://www.facebook.com/TrekBicycleOFallon)[<img src="images/Discord.png" style="vertical-align: middle;" />](https://discord.gg/fsv6NCyZ)
+[<img src="images/Strava.png" style="vertical-align: middle;" />](https://www.strava.com/clubs/1181950/)
+[<img src="images/fb.png" style="vertical-align: middle;" />](https://www.facebook.com/TrekBicycleOFallon)
+[<img src="images/Discord.png" style="vertical-align: middle;" />](https://discord.gg/dhuePbFFDT)
 
 A great way to stay in touch with cycling happenings is via the [shop's Strava Club](https://www.strava.com/clubs/1181950). You'll see regular updates on group rides as well as other fun reasons to get together and enjoy cycling as a crew.
 
@@ -34,7 +36,7 @@ In the event of inclement weather, many of us join up on the [ROUVY](https://rou
 - **[River Flats Ride](https://riders.rouvy.com/route/275858):** 39.5 mi with 541 ft of climbing
 - **[Rainy Fall SMR](https://riders.rouvy.com/route/252194):** 38.24 mi with 804 ft of climbing
 
-To keep it fun and social, we join voice chat on the community's [Discord channel](https://discord.com/channels/1442264364743786599/1444371102104027348).
+To keep it fun and social, we join voice chat on the community's [Discord channel](https://discord.gg/dhuePbFFDT).
 
 <iframe src="https://discord.com/widget?id=1442264364743786599&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
