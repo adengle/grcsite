@@ -32,11 +32,13 @@ If you have a Garmin, Wahoo, or other GPS device, you can download these routes 
 
 ### Virtual Group Rides
 In the event of inclement weather, many of us join up on the [ROUVY](https://rouvy.com/) virtual cycling platform. We'll start at the normal time, but ride the virtual version of one of our favorite routes:  
-- **[St. Paul Route](https://riders.rouvy.com/route/266126):** 23.89 mi with 994 ft of climbing
-- **[River Flats Ride](https://riders.rouvy.com/route/275858):** 39.5 mi with 541 ft of climbing
-- **[Rainy Fall SMR](https://riders.rouvy.com/route/252194):** 38.24 mi with 804 ft of climbing
+| Route | Distance | Climbing |
+|-------|----------|-----------|
+|[St. Paul Route](https://riders.rouvy.com/route/266126)|23.89 mi|994 ft|
+|[River Flats Ride](https://riders.rouvy.com/route/275858)|39.5 mi|541 ft|
+|[Rainy Fall SMR](https://riders.rouvy.com/route/252194)|38.24 mi|804 ft|
 
-To keep it fun and social, we join voice chat on the community's [Discord channel](https://discord.gg/dhuePbFFDT).
+Which route we'll ride is usually announced via the [Strava Club](https://www.strava.com/clubs/1181950) and/or the [Facebook page](https://www.facebook.com/TrekBicycleOFallon).  To keep it fun and social, we join voice chat on the community's [Discord channel](https://discord.gg/dhuePbFFDT).
 
 <iframe src="https://discord.com/widget?id=1442264364743786599&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
