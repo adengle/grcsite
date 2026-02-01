@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+</head>
+<body>
+
+<nav>
+  <ul>
+    {% assign nav_pages = site.html_pages | sort: "title" %}
+    {% for p in nav_pages %}
+      {% if p.nav_exclude != true %}
+        <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+
+<main>
+  {{ content }}
+</main>
+
+</body>
+</html>
