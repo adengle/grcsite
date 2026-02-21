@@ -1,6 +1,7 @@
-![TKOCC](images/TKOCC%20Logo%20CLR%20SM.png)
 
 *While this site does not represent [Trek Bicycle Corporation](https://www.trekbikes.com) or their [O'Fallon, MO shop](https://www.trekbikes.com/us/en_US/retail/o_fallon/), I have found a great community of friendly, welcoming folks there and thought I'd share some useful information for those who may be interested in joining the community.*
+
+First things, first: Everyone is welcome to join the group rides! Are you new? [Check out the new rider guide](newrider.md) for some tips and encouragement!
 
 <iframe width="100%" height="450" src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=in&metricTemp=°F&metricWind=mph&zoom=11&overlay=wind&product=ecmwf&level=surface&lat=38.731&lon=-90.7&detailLat=38.779&detailLon=-90.7&detail=true&message=true" frameborder="0"></iframe>
 
