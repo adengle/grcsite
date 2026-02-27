@@ -12,6 +12,12 @@ My favorite recurring rides are with the [Trek O'Fallon Cycling Community](tko.m
 [<img src="images/MidSouth.png" width="20%" style="vertical-align: middle;" />](https://www.midsouthgravel.com/)
 [<img src="images/TrailnetClassics.png" width="20%" style="vertical-align: middle;" />](https://trailnet.org/rides/)
 
+[<img src="images/Garmin.png" width="20%" style="vertical-align: middle;" />](https://www.garmin.com/en-US/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/)
+[<img src="images/InMotion.png" width="20%" style="vertical-align: middle;" />](https://www.inmotionbikefitstudio.net/)
+[<img src="images/Cinturato.png" width="20%" style="vertical-align: middle;" />](https://www.pirelli.com/tyres/en-ww/bike/tyres/family/cinturato)
+[<img src="images/Silca.png" width="20%" style="vertical-align: middle;" />](https://silca.cc/collections/chain-waxing-system)
+[<img src="images/Gtechniq.png" width="20%" style="vertical-align: middle;" />](https://gtechniq.com/product-category/bike/)
+
 ## Pro Racing
 See also the table [in calendar order](proracing.md) or [import to your calendar](uci2026.ics)!
 ### Grand Tours
