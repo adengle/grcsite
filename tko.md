@@ -3,7 +3,91 @@
 
 First things, first: Everyone is welcome to join the group rides! Are you new? [Check out the new rider guide](newrider.md) for some tips and encouragement!
 
-<iframe width="100%" height="450" src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=in&metricTemp=°F&metricWind=mph&zoom=11&overlay=wind&product=ecmwf&level=surface&lat=38.731&lon=-90.7&detailLat=38.779&detailLon=-90.7&detail=true&message=true" frameborder="0"></iframe>
+<div id="sat-hours-weather"
+     style="padding:12px;background:#eef6ff;border-radius:8px;
+            font-family:Arial, sans-serif;width:340px;">
+  Loading next Saturday's 8AM–Noon forecast...
+</div>
+
+<script>
+async function loadSaturdayHours() {
+  const lat = 38.8106;   // O'Fallon, MO
+  const lon = -90.6998;
+
+  // Step 1: Get forecast URLs for this point
+  const pointRes = await fetch(`https://api.weather.gov/points/${lat},${lon}`);
+  const pointData = await pointRes.json();
+  const hourlyUrl = pointData.properties.forecastHourly;
+
+  // Step 2: Fetch hourly forecast
+  const hourlyRes = await fetch(hourlyUrl);
+  const hourlyData = await hourlyRes.json();
+  const periods = hourlyData.properties.periods;
+
+  // Step 3: Determine next Saturday
+  const now = new Date();
+  const nextSat = new Date(now);
+  nextSat.setDate(now.getDate() + ((6 - now.getDay() + 7) % 7 || 7));
+  nextSat.setHours(8, 0, 0, 0);
+
+  // Format date for display
+  const dateStr = nextSat.toLocaleDateString([], {
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric'
+  });
+
+  // Step 4: Collect hours 8AM → Noon
+  const targets = [];
+  for (let h = 8; h <= 12; h++) {
+    const hourDate = new Date(nextSat);
+    hourDate.setHours(h);
+
+    const match = periods.find(p => {
+      const d = new Date(p.startTime);
+      return d.getHours() === hourDate.getHours() &&
+             d.getDate() === hourDate.getDate();
+    });
+
+    if (match) targets.push(match);
+  }
+
+  const box = document.getElementById("sat-hours-weather");
+
+  if (targets.length === 0) {
+    box.innerText = "No Saturday hourly forecast available yet.";
+    return;
+  }
+
+  // Step 5: Render the table with date
+  let html = `<strong>Next Saturday (${dateStr})</strong><br>
+              <em>Hourly Forecast: 8AM–Noon</em><br><br>
+              <table style="width:100%;font-size:14px;">
+                <tr><th align="left">Time</th>
+                    <th align="left">Temp</th>
+                    <th align="left">Precip</th>
+                    <th align="left">Wind</th></tr>`;
+
+  targets.forEach(t => {
+    const d = new Date(t.startTime);
+    const time = d.toLocaleTimeString([], { hour: 'numeric' });
+    const precip = t.probabilityOfPrecipitation.value ?? 0;
+
+    html += `<tr>
+               <td>${time}</td>
+               <td>${t.temperature}°${t.temperatureUnit}</td>
+               <td>${precip}%</td>
+               <td>${t.windSpeed} ${t.windDirection}</td>
+             </tr>`;
+  });
+
+  html += `</table>`;
+  box.innerHTML = html;
+}
+
+loadSaturdayHours();
+</script>
+
 
 ## Getting Connected
 The best way to get connected is to go by the shop! Grab a cup of coffee (or an NA beer), hang out and talk bikes! In addition to that, you can connect with the community online...
